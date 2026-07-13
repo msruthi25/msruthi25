@@ -1,190 +1,161 @@
 <div align="center">
 
-# Hi there 👋 I'm Sruthi Madhavan
+# 👋 Hi, I'm Sruthi Madhavan
 
-### Full Stack Developer • Java • Spring Boot • Angular • AI Applications
+### Java Full Stack Developer | Spring Boot | Angular | GenAI
 
-<p>
-Building scalable web applications, REST APIs, Microservices, and AI-powered solutions.
-</p>
-
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Microservices+Enthusiast;FastAPI+%7C+Python+Developer;Building+AI+Powered+Applications" />
-</p>
+Building scalable web applications, backend systems, and AI-powered solutions using modern technologies.
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-I'm a Full Stack Developer passionate about designing scalable backend systems and building modern, responsive web applications.
+I'm a Full Stack Developer passionate about building reliable, scalable, and user-focused applications.
 
-I enjoy creating applications from end to end—from designing REST APIs and microservices to developing intuitive user interfaces and integrating AI capabilities.
+My development journey spans backend engineering, frontend development, and Generative AI applications. I enjoy designing APIs, building modern user interfaces, exploring microservices architecture, and integrating AI capabilities into real-world applications.
 
-Currently I'm focusing on
+Currently exploring:
 
-- ☕ Java & Spring Boot
+- ☕ Advanced Java & Spring Boot
 - ⚡ Microservices Architecture
-- 🅰️ Angular
-- 🤖 AI & LLM Applications
-- 🐳 Docker
-- ☁️ AWS
-- 📈 System Design
+- 📨 Event-driven systems with Kafka
+- ☁️ Cloud-native development
+- 🤖 Generative AI & AI Agent workflows
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,spring,angular,react,fastapi,django,flask,postgres,mongodb,docker,aws,git,githubactions" />
+
+</div>
 
 ---
 
-## Backend
+## 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,fastapi,django" />
-</p>
+Java • Python • JavaScript • TypeScript
 
-- Spring Boot
+---
+
+## ⚙️ Backend Development
+
+Spring Boot • FastAPI • Django • Flask
+
 - REST APIs
 - Microservices
-- Hibernate
+- Hibernate / JPA
 - SQLAlchemy
 - Pydantic
+- Authentication & Authorization
+- API Design
 
 ---
 
-## Frontend
+## 🎨 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap" />
-</p>
+Angular • React • Streamlit
 
----
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
-</p>
+- HTML5
+- CSS / SCSS
+- Bootstrap
+- Responsive UI
+- Component-based architecture
 
 ---
 
-## DevOps & Cloud
+## 🤖 Generative AI & LLM
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,jenkins,maven,git" />
-</p>
-
----
-
-## AI & LLM
+Building applications using modern AI technologies:
 
 - LangChain
 - LangGraph
-- OpenAI API
+- OpenAI APIs
 - GPT Models
-- Whisper
-- Vision APIs
-- OpenRouter
+- AI Agents
+- Model Context Protocol (MCP)
+- Document Intelligence
+- LLM-powered workflows
+
+---
+
+## 🗄 Databases
+
+- PostgreSQL
+- MongoDB
+- Oracle Database
+- SQLite
+
+---
+
+## ☁️ Cloud & Development Tools
+
+- AWS (S3, Lambda, EC2)
+- Docker
+- GitHub Actions
+- Jenkins
+- Maven
+- Git
+- Postman
 
 ---
 
 # 📌 Featured Projects
 
-## 🤖 AI Agent Workflow System
+## 🤖 FastAPI-Blog — AI Agentic Content Platform
 
-Multi-agent workflow orchestration platform built using **LangGraph** and **FastAPI**.
+An AI-powered blogging platform built using **FastAPI, LangGraph, and Model Context Protocol (MCP)**.
 
-### Highlights
+### Highlights:
 
-- Multi-step AI workflows
-- REST API architecture
-- Production-ready logging
-- Error handling
-- Modular workflow execution
+- AI-assisted content research and generation
+- Agent-based workflows
+- Async API architecture
+- JWT authentication
+- Structured logging and request tracing
+- Database integration using SQLAlchemy
 
----
-
-## 📄 Document Intelligence Platform
-
-Extracts structured information from PDFs and DOCX files using LLMs.
-
-### Features
-
-- PDF Processing
-- DOCX Processing
-- Intelligent Summarization
-- Data Extraction
-- AI-powered Parsing
 
 ---
 
-## 📊 AI Analytics Dashboard
+## 📄 Django-Blog — Production Style REST Application
 
-Interactive analytics platform built with **Streamlit** and backend APIs.
+A containerized Django REST application demonstrating backend engineering practices.
 
-### Features
+### Highlights:
 
-- Real-time dashboards
-- Data visualization
-- Interactive charts
-- Reporting
-- API integration
+- Django REST Framework
+- JWT Authentication
+- Celery background tasks
+- Redis integration
+- Docker containerization
+- Automated testing with Pytest
 
----
-
-# 💻 Currently Learning
-
-- Advanced Spring Boot
-- Distributed Microservices
-- Kubernetes
-- OpenShift
-- Apache Kafka
-- AWS Services
-- System Design
 
 ---
 
-# 📈 GitHub Stats
+## 📝 Flask_BLOG — Full Stack Blogging Application
 
-<p align="center">
+A lightweight blogging application built with Flask and SQLAlchemy.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+### Highlights:
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+- User authentication
+- Blog post management
+- CRUD operations
+- SQLite database
+- Custom responsive UI
 
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
 
 ---
 
-# 🌐 Connect with Me
-
-<p>
-📍 Oshawa, Ontario, Canada
-</p>
-
----
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Repeat."*
+**Code • Learn • Build • Innovate**
 
 </div>
