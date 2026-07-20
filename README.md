@@ -4,7 +4,7 @@
 
 ### Java Full Stack Developer | Spring Boot | Angular | GenAI
 
-Building scalable web applications, backend systems, and AI-powered solutions using modern technologies
+Building scalable web applications, backend systems, and AI-powered solutions using modern technologies.
 
 </div>
 
