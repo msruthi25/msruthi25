@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi,  I'm Sruthi Madhavan
+# 👋 Hi, I'm Sruthi Madhavan
 
 ### Java Full Stack Developer | Spring Boot | Angular | GenAI
 
