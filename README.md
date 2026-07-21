@@ -34,7 +34,7 @@ Currently exploring:
 
 </div>
 
----
+----
 
 ## 💻 Languages
 
